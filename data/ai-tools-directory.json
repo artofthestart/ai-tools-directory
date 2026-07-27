@@ -1,0 +1,192 @@
+{
+  "name": "AI Tools Directory",
+  "description": "Every entry links to a written profile covering what the tool does, its core features, how pricing works, and who it suits.",
+  "source": "https://artofthestart.com",
+  "licence": "CC-BY-4.0",
+  "updated": "2026-07-27",
+  "count": 26,
+  "entries": [
+    {
+      "name": "Adobe Firefly",
+      "description": "Adobe's generative AI suite for images, video, audio, and design.",
+      "category": "Image",
+      "website": "https://www.adobe.com/products/firefly.html",
+      "profile": "https://artofthestart.com/ai-tools/adobe-firefly/"
+    },
+    {
+      "name": "Beacons",
+      "description": "An all-in-one link-in-bio, store, and media kit platform for content creators.",
+      "category": "Marketing",
+      "website": "https://beacons.ai",
+      "profile": "https://artofthestart.com/ai-tools/beacons/"
+    },
+    {
+      "name": "CapCut",
+      "description": "A free AI video and photo editor for social content, from ByteDance.",
+      "category": "Video",
+      "website": "https://www.capcut.com",
+      "profile": "https://artofthestart.com/ai-tools/capcut/"
+    },
+    {
+      "name": "ChatGPT",
+      "description": "OpenAI's AI chatbot for writing, research, coding, and everyday tasks.",
+      "category": "Chatbot",
+      "website": "https://chatgpt.com",
+      "profile": "https://artofthestart.com/ai-tools/chatgpt/"
+    },
+    {
+      "name": "Claude",
+      "description": "Anthropic's AI assistant for writing, research, and software development.",
+      "category": "Chatbot",
+      "website": "https://claude.ai",
+      "profile": "https://artofthestart.com/ai-tools/claude/"
+    },
+    {
+      "name": "ElevenLabs",
+      "description": "AI voice generation and conversational voice agents in 70+ languages.",
+      "category": "Voice & Audio",
+      "website": "https://elevenlabs.io",
+      "profile": "https://artofthestart.com/ai-tools/elevenlabs/"
+    },
+    {
+      "name": "Ghosts AI Writer",
+      "description": "Brief a specialist AI writer and get back a cited, publish-ready draft. No prompts.",
+      "category": "Text & Writing",
+      "website": "https://ghosts.app/",
+      "profile": "https://artofthestart.com/ai-tools/ghosts-ai-writer/"
+    },
+    {
+      "name": "GPTZero",
+      "description": "An AI content detector that flags machine-generated text sentence by sentence.",
+      "category": "AI Detector",
+      "website": "https://gptzero.me",
+      "profile": "https://artofthestart.com/ai-tools/gptzero/"
+    },
+    {
+      "name": "Grammarly",
+      "description": "An AI writing assistant that checks grammar, tone, and clarity as you type.",
+      "category": "Text & Writing",
+      "website": "https://www.grammarly.com",
+      "profile": "https://artofthestart.com/ai-tools/grammarly/"
+    },
+    {
+      "name": "HubSpot",
+      "description": "An all-in-one CRM platform for marketing, sales, and customer service, with AI built in.",
+      "category": "Business",
+      "website": "https://www.hubspot.com",
+      "profile": "https://artofthestart.com/ai-tools/hubspot/"
+    },
+    {
+      "name": "Hugging Face",
+      "description": "A hub for hosting, sharing, and running machine learning models, datasets, and apps.",
+      "category": "Code & IT",
+      "website": "https://huggingface.co",
+      "profile": "https://artofthestart.com/ai-tools/hugging-face/"
+    },
+    {
+      "name": "Leonardo.Ai",
+      "description": "AI image and video generator with 80+ models and a real-time editing canvas.",
+      "category": "Image",
+      "website": "https://leonardo.ai",
+      "profile": "https://artofthestart.com/ai-tools/leonardo-ai/"
+    },
+    {
+      "name": "Miro",
+      "description": "An online whiteboard where teams plan, diagram, and connect AI tools to a shared canvas.",
+      "category": "Productivity",
+      "website": "https://miro.com",
+      "profile": "https://artofthestart.com/ai-tools/miro/"
+    },
+    {
+      "name": "Notion",
+      "description": "The AI-powered workspace for docs, projects, and team knowledge.",
+      "category": "Productivity",
+      "website": "https://www.notion.so",
+      "profile": "https://artofthestart.com/ai-tools/notion/"
+    },
+    {
+      "name": "OpenAI Platform",
+      "description": "The API and developer platform behind GPT models, agents, and OpenAI's other AI tools.",
+      "category": "Code & IT",
+      "website": "https://openai.com/api/",
+      "profile": "https://artofthestart.com/ai-tools/openai-platform/"
+    },
+    {
+      "name": "OpenRouter",
+      "description": "One API for 400+ AI models, so you never rebuild your integration again.",
+      "category": "Code & IT",
+      "website": "https://openrouter.ai",
+      "profile": "https://artofthestart.com/ai-tools/openrouter/"
+    },
+    {
+      "name": "Perplexity AI",
+      "description": "An AI answer engine that searches the web and cites sources instead of guessing.",
+      "category": "Chatbot",
+      "website": "https://www.perplexity.ai",
+      "profile": "https://artofthestart.com/ai-tools/perplexity-ai/"
+    },
+    {
+      "name": "Photoroom",
+      "description": "AI background remover and product-photo studio trusted by 80M+ users.",
+      "category": "Image",
+      "website": "https://www.photoroom.com",
+      "profile": "https://artofthestart.com/ai-tools/photoroom/"
+    },
+    {
+      "name": "Prolific",
+      "description": "A platform connecting researchers and AI teams with verified human participants.",
+      "category": "Business",
+      "website": "https://www.prolific.com",
+      "profile": "https://artofthestart.com/ai-tools/prolific/"
+    },
+    {
+      "name": "QuillBot",
+      "description": "An AI writing assistant for paraphrasing, grammar checking, and humanizing text.",
+      "category": "Text & Writing",
+      "website": "https://quillbot.com",
+      "profile": "https://artofthestart.com/ai-tools/quillbot/"
+    },
+    {
+      "name": "remove.bg",
+      "description": "One-click AI tool that strips the background out of any photo in seconds.",
+      "category": "Image",
+      "website": "https://www.remove.bg",
+      "profile": "https://artofthestart.com/ai-tools/remove-bg/"
+    },
+    {
+      "name": "Replit",
+      "description": "Describe an app in plain language and Replit's Agent builds and deploys it.",
+      "category": "Code & IT",
+      "website": "https://replit.com",
+      "profile": "https://artofthestart.com/ai-tools/replit/"
+    },
+    {
+      "name": "Salesforce Platform",
+      "description": "The Agentic CRM platform for sales, service, marketing, and commerce.",
+      "category": "Business",
+      "website": "https://www.salesforce.com",
+      "profile": "https://artofthestart.com/ai-tools/salesforce-platform/"
+    },
+    {
+      "name": "Shutterstock AI",
+      "description": "A stock media library with a built-in AI image and video generator.",
+      "category": "Image",
+      "website": "https://www.shutterstock.com",
+      "profile": "https://artofthestart.com/ai-tools/shutterstock-ai/"
+    },
+    {
+      "name": "TurboScribe",
+      "description": "An AI transcription tool that turns audio and video recordings into accurate text fast.",
+      "category": "Voice & Audio",
+      "website": "https://turboscribe.ai",
+      "profile": "https://artofthestart.com/ai-tools/turboscribe/"
+    },
+    {
+      "name": "ZeroGPT",
+      "description": "Free AI content detector that flags ChatGPT-written text, plus a bundled writing toolkit.",
+      "category": "AI Detector",
+      "website": "https://www.zerogpt.com",
+      "profile": "https://artofthestart.com/ai-tools/zerogpt/"
+    }
+  ]
+}
