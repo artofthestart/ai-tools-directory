@@ -2,7 +2,7 @@
 
 An open, regularly updated directory of AI tools, maintained by the editorial team at Art of the Startup. Each tool has a full written profile rather than a one-line blurb scraped from a homepage.
 
-**26 entries · updated 2026-08-24** · Browsable version: **[https://artofthestart.github.io/ai-tools-directory/](https://artofthestart.github.io/ai-tools-directory/)**
+**26 entries · updated 2026-08-31** · Browsable version: **[https://artofthestart.github.io/ai-tools-directory/](https://artofthestart.github.io/ai-tools-directory/)**
 
 > Every entry links to a written profile covering what the tool does, its core features, how pricing works, and who it suits.
 
